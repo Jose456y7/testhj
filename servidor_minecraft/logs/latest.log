@@ -243,3 +243,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [02:16:08] [Server thread/WARN]: Horse (vehicle of matiasauto123) moved wrongly! 0.9298857010582298
 [02:16:08] [Server thread/WARN]: Horse (vehicle of matiasauto123) moved wrongly! 1.5223588707538953
 [02:16:17] [Server thread/INFO]: MemiXr has made the advancement [We Need to Go Deeper]
+[02:21:20] [Server thread/INFO]: Villager class_1646['Villager'/15203, l='ServerLevel[world]', x=12.50, y=61.03, z=43.50] died, message: 'Villager drowned'
+[02:22:11] [Server thread/INFO]: MemiXr lost connection: Disconnected
+[02:22:11] [Server thread/INFO]: MemiXr left the game
+[02:23:18] [Server thread/INFO]: MemiXr[/192.168.192.131:64982] logged in with entity id 15628 at (32.02482782924513, 61.0, 35.66753741267396)
+[02:23:18] [Server thread/INFO]: MemiXr joined the game
