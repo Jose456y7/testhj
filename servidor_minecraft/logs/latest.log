@@ -248,3 +248,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [02:22:11] [Server thread/INFO]: MemiXr left the game
 [02:23:18] [Server thread/INFO]: MemiXr[/192.168.192.131:64982] logged in with entity id 15628 at (32.02482782924513, 61.0, 35.66753741267396)
 [02:23:18] [Server thread/INFO]: MemiXr joined the game
+[02:33:47] [Server thread/INFO]: matiasauto123 has made the advancement [Withering Heights]
+[02:33:47] [Server thread/INFO]: Thexperson2 has made the advancement [Withering Heights]
+[02:33:47] [Server thread/INFO]: MemiXr has made the advancement [Withering Heights]
+[02:34:26] [Server thread/INFO]: MemiXr lost connection: Disconnected
+[02:34:26] [Server thread/INFO]: MemiXr left the game
+[02:34:38] [Server thread/INFO]: Thexperson2 withered away
+[02:34:46] [Server thread/INFO]: Villager class_1646['Librarian'/233, l='ServerLevel[world]', x=22.92, y=63.00, z=53.21] died, message: 'Librarian was shot by a skull from Wither'
+[02:34:50] [Server thread/INFO]: Villager class_1646['Farmer'/76, l='ServerLevel[world]', x=26.70, y=62.75, z=49.44] died, message: 'Farmer withered away while fighting Wither'
+[02:35:02] [Server thread/INFO]: Villager class_1646['Librarian'/79, l='ServerLevel[world]', x=22.82, y=63.00, z=60.73] died, message: 'Librarian withered away'
+[02:36:24] [Server thread/INFO]: Thexperson2 lost connection: Disconnected
+[02:36:24] [Server thread/INFO]: Thexperson2 left the game
+[02:37:02] [Server thread/INFO]: Villager class_1646['Librarian'/231, l='ServerLevel[world]', x=22.94, y=62.00, z=46.30] died, message: 'Librarian withered away while fighting Wither'
+[02:37:07] [Server thread/INFO]: Villager class_1646['Cleric'/80, l='ServerLevel[world]', x=15.57, y=61.00, z=40.88] died, message: 'Cleric was shot by a skull from Wither'
+[02:37:12] [Thread-69/WARN]: Failed to fetch skin: not found
+[02:37:14] [Server thread/INFO]: Thexperson2[/192.168.192.124:55926] logged in with entity id 20809 at (54.7466262816638, -27.76743970667076, 51.329936935549)
+[02:37:14] [Server thread/INFO]: Thexperson2 joined the game

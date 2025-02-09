@@ -535,6 +535,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-06 04:19:34 +0000",
       "mutton": "2025-02-04 21:57:25 +0000",
+      "chicken": "2025-02-09 02:29:33 +0000",
       "bread": "2025-02-03 20:40:17 +0000",
       "golden_apple": "2025-02-06 03:45:05 +0000",
       "cookie": "2025-02-03 22:12:54 +0000",
@@ -2990,6 +2991,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:chicken": "2025-02-09 02:29:42 +0000",
       "minecraft:wolf": "2025-02-03 23:54:42 +0000"
     },
     "done": false
@@ -5017,6 +5019,18 @@
   "global:root": {
     "criteria": {
       "requirement": "2025-02-09 01:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-09 02:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-09 02:34:18 +0000"
     },
     "done": true
   },
