@@ -1007,27 +1007,28 @@
       "minecraft:pillager": "2025-02-04 20:21:20 +0000",
       "minecraft:blaze": "2025-02-06 02:05:25 +0000",
       "minecraft:skeleton": "2025-02-03 01:58:47 +0000",
+      "minecraft:bogged": "2025-02-05 21:45:23 +0000",
+      "minecraft:ghast": "2025-02-06 02:11:53 +0000",
+      "minecraft:hoglin": "2025-02-06 02:04:44 +0000",
+      "minecraft:vindicator": "2025-02-04 21:13:22 +0000",
+      "minecraft:magma_cube": "2025-02-06 02:03:21 +0000",
+      "minecraft:spider": "2025-02-03 01:29:53 +0000",
+      "minecraft:piglin_brute": "2025-02-06 03:39:14 +0000",
+      "minecraft:creeper": "2025-02-03 02:19:43 +0000",
+      "minecraft:wither": "2025-02-09 02:39:17 +0000",
+      "minecraft:slime": "2025-02-05 21:56:59 +0000",
       "minecraft:phantom": "2025-02-04 20:29:10 +0000",
       "minecraft:zombified_piglin": "2025-02-06 02:10:54 +0000",
       "minecraft:witch": "2025-02-03 02:57:19 +0000",
       "minecraft:wither_skeleton": "2025-02-03 21:38:10 +0000",
       "minecraft:husk": "2025-02-04 21:01:50 +0000",
-      "minecraft:bogged": "2025-02-05 21:45:23 +0000",
-      "minecraft:ghast": "2025-02-06 02:11:53 +0000",
-      "minecraft:hoglin": "2025-02-06 02:04:44 +0000",
       "minecraft:shulker": "2025-02-06 05:12:49 +0000",
       "minecraft:piglin": "2025-02-06 02:02:58 +0000",
-      "minecraft:vindicator": "2025-02-04 21:13:22 +0000",
       "minecraft:enderman": "2025-02-03 03:16:06 +0000",
-      "minecraft:magma_cube": "2025-02-06 02:03:21 +0000",
-      "minecraft:spider": "2025-02-03 01:29:53 +0000",
-      "minecraft:piglin_brute": "2025-02-06 03:39:14 +0000",
       "minecraft:vex": "2025-02-04 21:38:02 +0000",
       "minecraft:zombie": "2025-02-03 02:33:43 +0000",
-      "minecraft:creeper": "2025-02-03 02:19:43 +0000",
       "minecraft:drowned": "2025-02-03 21:16:09 +0000",
-      "minecraft:zombie_villager": "2025-02-03 04:38:10 +0000",
-      "minecraft:slime": "2025-02-05 21:56:59 +0000"
+      "minecraft:zombie_villager": "2025-02-03 04:38:10 +0000"
     },
     "done": false
   },
@@ -5290,6 +5291,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-02-09 02:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-02-09 02:39:19 +0000"
     },
     "done": true
   },
