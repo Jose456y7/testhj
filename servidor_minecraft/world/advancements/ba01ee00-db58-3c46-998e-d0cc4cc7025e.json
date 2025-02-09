@@ -5034,5 +5034,18 @@
     },
     "done": true
   },
+  "diamond_recycling:recipes/misc/diamond_from_recycling_armor": {
+    "criteria": {
+      "has_diamond": "2025-02-09 03:39:24 +0000"
+    },
+    "done": true
+  },
+  "diamond_recycling:recipes/misc/diamond_from_recycling_tools": {
+    "criteria": {
+      "has_the_recipe": "2025-02-09 03:39:24 +0000",
+      "has_diamond": "2025-02-09 03:39:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
